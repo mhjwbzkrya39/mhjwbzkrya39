@@ -6,7 +6,7 @@ lerna-debug.log*
 # Diagnostic reports (https://nodejs.org/api/report.html)
 
 pids
-*.pid
+*.
 *.pid.lock
 
 lib-cov
