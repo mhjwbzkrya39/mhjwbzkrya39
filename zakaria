@@ -85,7 +85,7 @@ dist
 .serverless/
 
 
-.fusebox/
+./
 
 # DynamoDB Local files
 .dynamodb/
