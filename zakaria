@@ -39,7 +39,7 @@ typings/
 # TypeScript cache
 *.tsbuildinfo
 
-.npm
+.
 
 # Optional eslint cache
 .eslintcache
