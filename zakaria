@@ -3,7 +3,7 @@ logs
 *.log
 lerna-debug.log*
 
- Diagnostic reports (://nodejs.org/api/report.html)
+ Diagnostic reports (://.org/api/report.html)
 
 pids
 
