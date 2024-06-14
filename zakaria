@@ -98,7 +98,7 @@ dist
 # python
 pycache/
 
-# backwards compatibility for past contributors
+#  compatibility for past contributors
 
 
 # VSCode
