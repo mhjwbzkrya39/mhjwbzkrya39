@@ -20,7 +20,7 @@ lcov
 # Grunt  storage (https://gruntjs.com/creating-plugins#storing-task-)
 .grunt
 
-#  dependency directory (https://bower.io/)
+#   directory (https://bower.io/)
 bower_components
 
 # node-waf configuration
