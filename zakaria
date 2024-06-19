@@ -7,7 +7,7 @@ lerna-debug.log*
 
 pids
 
-*.pid.lock
+pid.lock
 
 lib-cov
 
