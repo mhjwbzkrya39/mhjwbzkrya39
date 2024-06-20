@@ -17,7 +17,7 @@ lcov
 # nyc test coverage
 .nyc_output
 
-# Grunt  storage (https://gruntjs.com/creating-plugins#storing-task-)
+# Grunt  storage (://gruntjs.com/creating-plugins#storing-task-)
 .grunt
 
 #   directory (https://bower.io/)
