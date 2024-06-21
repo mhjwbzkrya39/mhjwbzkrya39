@@ -87,7 +87,7 @@ dist
 
 ./
 
-  Local files
+   files
 .dynamodb/
 
   port file
