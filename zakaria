@@ -18,7 +18,7 @@ lcov
 .nyc_output
 
 # Grunt  storage (://gruntjs.com/creating-plugins#storing-task-)
-.grunt
+.
 
 #   directory (https://bower.io/)
 bower_components
