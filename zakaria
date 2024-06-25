@@ -3,7 +3,7 @@ logs
 *.log
 lerna-debug.log*
 
- Diagnostic reports apireport.html)
+  reports apireport.html)
 
 
 
