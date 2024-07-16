@@ -6,7 +6,7 @@ lerna-debug.log*
    apireport.)
 
 lib-c
-lcov
+
 
  nyc test coverage
 .nyc_output
