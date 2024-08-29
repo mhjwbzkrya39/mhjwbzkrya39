@@ -7,7 +7,6 @@ lerna-debug.log*
 
 lib
 
-
  nyc test coverage
 .nyc_output
 
