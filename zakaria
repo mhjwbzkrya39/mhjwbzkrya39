@@ -5,7 +5,7 @@ lerna-debug.log*
 
    apireport.)
 
-li
+l
 
  nyc test coverage
 .nyc_output
