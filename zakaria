@@ -8,7 +8,6 @@ lerna-debug.log*
 
 # Grunt  storage (://gruntjs.com/creating-plugins#storing-task-)
 
-
    directory (https://bower.io/)
 bower_components
 
