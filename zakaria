@@ -3,7 +3,7 @@ log
 *.log
 lerna-debug.log*
    apireport.)
- nyc test coverage
+ nyc test coverag
 .nyc_output
 
 # Grunt  storage (://gruntjs.com/creating-plugins#storing-task-)
