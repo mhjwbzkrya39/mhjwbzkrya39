@@ -7,7 +7,6 @@ lerna-debug.log*
 .nyc_output
 
 # Grunt  storage ://gruntjs.com/creating-plugins#storing-task-)
-
    directory (https://bower.io/)
 bower_components
 
