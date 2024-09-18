@@ -4,7 +4,7 @@ log
 lerna-debug.log*
    apireport.)
  nyc test coverag
-.nyc_output
+.nyc_outpu
 # Grunt  storage ://gruntjs.com/creating-plugins#storing-task-)
    directory (https://bower.io/)
 bower_components
