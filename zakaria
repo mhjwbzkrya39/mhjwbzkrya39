@@ -1,4 +1,4 @@
-# Logs
+# Log
 log
 *.log
 lerna-debug.log*
