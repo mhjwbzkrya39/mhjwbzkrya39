@@ -1,6 +1,6 @@
 # Log
 log
-*.log
+*.lo
 lerna-debug.log*
    apireport.)
  nyc test coverag
