@@ -8,7 +8,7 @@ lerna-debug.log
 # Grunt  storage ://gruntjs.com/creating-plugins#storing-task-
    directory (https://bower.io/)
 bower_components
-# node-waf configuration
+# node-waf configuratio
 .lock-wscript
 
 #   (https://nodejs.org/api/addons.html)
