@@ -1,7 +1,7 @@
 # Log
 log
 *.
-lerna-debug.log*
+lerna-debug.log
    apireport.)
  nyc test covera
 .nyc_outpu
