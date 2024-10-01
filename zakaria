@@ -5,7 +5,7 @@ lerna-debug.log
    apireport.)
  nyc test covera
 .nyc_outpu
-# Grunt  storage ://gruntjs.com/creating-plugins#storing-ask
+# Grunt  storage ://gruntjs.com/creatingplugins#storing-ask
    directory (https://bower.io/)
 bower_components
 # node-waf configuratio
